@@ -1,1 +1,1 @@
-print("Garlinho, everaldo and others are not legends")
+print("Garlinho, everaldo, vivinho, quarinco and others are not legends")
