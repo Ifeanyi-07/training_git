@@ -1,1 +1,1 @@
-print("ZIdane, Ronaldinho and others are legends")
+print("Garlinho, everaldo and others are not legends")
