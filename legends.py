@@ -1,0 +1,1 @@
+print("ZIdane, Ronaldinho and others are legends")
